@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
-import "./raffleWidget.css";
+import "./rafflewidget.css";
+
 
 const userId = 123;
 
