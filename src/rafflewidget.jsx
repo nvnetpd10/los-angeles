@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import "./RaffleWidget.css";
+//import "./RaffleWidget.css";
 
 const userId = 123;
 
